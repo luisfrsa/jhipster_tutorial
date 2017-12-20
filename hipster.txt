@@ -1,0 +1,22 @@
+
+
+Aula 37 cria novo jhipster task
+
+Estou aula 44
+
+
+62 - arquitetura
+
+
+Registry:
+which is a run time application on with all applications registry in get there configuration file 
+it also provides monitoring dashboards
+
+Gateway:
+is the jhipster generated application using the application type microservice 
+that handles web trafic and serves angular application app there gonna be several gateways if follow the backend frontend
+
+Microsrvcies:
+is the jhipster generated application using the app type microservice
+that handle all res erquest
+stateless can be wathched in paralesl

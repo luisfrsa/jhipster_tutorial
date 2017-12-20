@@ -1,0 +1,13 @@
+docker ps
+docker pull SO
+docker run -it --name nome SO
+
+
+(https://stackoverflow.com/questions/30172605/how-to-get-into-a-docker-container)
+ctrl+c = stop
+docker start nome
+docker attach nome
+
+docker exec -it <mycontainer> bash
+
+docker container ls -a

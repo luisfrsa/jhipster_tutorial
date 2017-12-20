@@ -1,0 +1,9 @@
+npm install -g @angular/cli
+ng new nome_app
+ng serve = start
+
+ng generate component nome componente
+ou
+ng g c nome componente
+
+add css na pasta angular-cli.json no styles

@@ -1,0 +1,21 @@
+Intelli J
+Ctrl+N = busca classes no projeto
+Ctrl+space = autocompleete
+Alt+F7 = encontra usos de classe
+Ctrl+Q = view class docs
+Ctrl+b = find class declaration
+CTRL+F12 = navigate currently edited file
+Shift+F6 = rename all used class variable (refactor)
+CTRL+O = override method
+Ctrl+Alt+T  = try/catch
+Ctrl+d = duplicate
+Live Templates allow you to generate many typical code constructs in seconds! For example, type
+Ctrl+P inside param shows valid args
+
+Use Code | Reformat Code to reformat code according to your code style preferences (File | Settings | Code Style).
+You can also use Code | Optimize Imports to automatically optimize imports (remove unused imports, etc.). To access the corresponding settings, use File | Settings | Code Style | Imports.
+
+Alt+Q = show declaration without scroll
+Alt+up/down = move between methods
+Ctrl+Shift+J = 2 lines become 1
+Ctrl+Shift+V shortcut to choose and insert recent clipboard contents into the text
